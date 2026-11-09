@@ -1,0 +1,12 @@
+{
+  "hotel_id": 9066193,
+  "hotel_name": "Otaru Asarigawa Onsen Korakuen",
+  "page_url": "https://www.japanican.com/hotel/japan/otaru/otaru-asarigawa-onsen-korakuen",
+  "room_keyword": "open-air bath",
+  "mention": "@everyone",
+  "notify_sold_out_again": true,
+  "error_alert_after": 3,
+  "searches": [
+    { "check_in": "2026-12-26", "check_out": "2026-12-27", "adults": 2, "rooms": 1 }
+  ]
+}
